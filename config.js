@@ -1,5 +1,5 @@
 const config = {
-  appName: "CareerNodeApp",
+  appName: "EvercodeLabBackendPractice",
   version: "1.0.0"
 };
 
